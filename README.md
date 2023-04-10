@@ -18,4 +18,6 @@ Evon (not recommended, free)
 
 JJ-Sploit (should work, not recommended, free)
 
+I DO NOT MAKE SCRIPTS FOR PHONE USERS!
+
 -sinz
