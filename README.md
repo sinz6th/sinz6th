@@ -12,9 +12,6 @@ Making whatever i can for fun.<br><br>Learning [Front-End Dev](https://www.w3sch
 ![](https://nirzak-streak-stats.vercel.app/?user=sinz6th&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinz6th&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sinz6th&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sinz6th&icon=0&color=10)](https://visitcount.itsvg.in)
 
