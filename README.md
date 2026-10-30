@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="880" alt="HEAVENLY: silver lettering beneath a tilted halo" />
+  <img src="./assets/header-halo.svg" width="880" alt="HEAVENLY: silver lettering beneath a tilted halo" />
 </p>
 
 <p align="center">
