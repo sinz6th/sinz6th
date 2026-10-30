@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="44" viewBox="0 0 440 44" role="img" aria-labelledby="title">
+  <title id="title">Apps and utilities</title>
+  <defs><linearGradient id="rule"><stop stop-color="#655274" /><stop offset="1" stop-color="#655274" stop-opacity="0" /></linearGradient></defs>
+  <rect x="0" y="20" width="4" height="4" fill="#9864f5" />
+  <text x="20" y="29" font-family="Georgia, serif" font-size="20" letter-spacing="2" fill="#b0a8bf">APPS &amp; UTILITIES</text>
+  <path d="M263 22H440" stroke="url(#rule)" />
+</svg>

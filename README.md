@@ -1,53 +1,75 @@
 <p align="center">
-  <img src="./assets/header.svg" width="880" alt="header"/>
+  <img src="./assets/header.svg" width="880" alt="HEAVENLY: silver lettering beneath a tilted halo" />
 </p>
-
-## About
-
-Making whatever I can, for fun. Currently learning front-end development, [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), CSS, and more.
 
 <p align="center">
-  <img src="./assets/divider.svg" width="700" alt=""/>
+  Making whatever I can, for fun.<br />
+  <sub>Currently learning reversing, C++, and CSS. Interested in Rust.</sub>
 </p>
-
-## Knowledge
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat&logo=typescript&logoColor=C9A227" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=C9A227" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat&logo=react&logoColor=C9A227" alt="React"/>
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python&logoColor=C9A227" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML-0A0A0A?style=flat&logo=html5&logoColor=C9A227" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-0A0A0A?style=flat&logo=css3&logoColor=C9A227" alt="CSS"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=flat&logo=cplusplus&logoColor=C9A227" alt="C++"/>
-</p>
-
-
 
 <p align="center">
-  <img src="./assets/divider.svg" width="700" alt=""/>
+  <sub>TypeScript · React · JavaScript · Python · HTML · Lua</sub>
 </p>
-
-
 
 ## Projects
 
-**Heavenly Market** - Price engine for Stalzone. Keeps a private database of every listing and completed sale, served through its own API endpoint.
+<img src="./assets/browser-tools.svg" width="440" alt="Browser tools" />
 
-**Heavenly Studio** - Private editor for importing and exporting bot cards and advanced scripts. Everything stored locally.
+**HEAVENLY**<br />
+Unofficial JanitorAI toolkit with message recovery, chat management, drafts, and browsing tools.
 
-**HeavenlyX** - Lightweight extension that bypasses forced age verification and locked content on various sites.
+**YouTube+**<br />
+Enhancement suite for YouTube.
 
-**Outlast Trials Simulator** - Standalone, browser-based replica of the radio objective.
+**HeavenlyX**<br />
+Lightweight extension that bypasses forced age verification and locked content on various sites.
 
-**OBS YouTube Overlay** - Displays the currently playing YouTube video in OBS. Runs on a local server.
+<br />
 
-**Heavenly-UI** - Custom UI library for game modding, debugging, and reversing.
+<img src="./assets/apps-utilities.svg" width="440" alt="Apps and utilities" />
 
-**YouTube+** - Enhancement suite for YouTube.
+**Heavenly Market**<br />
+Stalzone auction tracker with price history, deal alerts, and a local market dashboard.
 
-**Heavenly Engine** - Private, self-maintained custom [CE](https://github.com/cheat-engine/cheat-engine/) build.
+**Heavenly Studio**<br />
+Private editor for bot cards and advanced scripts. Everything stored locally.
+
+**Heavenly Reel**<br />
+Bulk TikTok archiver with download queues, duplicate detection, and resume support.
+
+**Heavenly Alts**<br />
+Local Roblox account manager for Windows with multi-client launching and batch server joining.
+
+**OBS YouTube Overlay**<br />
+Displays the currently playing YouTube video in OBS through a local server.
+
+**Outlast Trials Simulator**<br />
+Standalone, browser-based replica of the radio objective.
+
+**DDA Tower Calculator**<br />
+Compares how Dungeon Defenders Awakened defenses scale with hero stats, using the game's own data.
+
+<br />
+
+<img src="./assets/modding-reversing.svg" width="440" alt="Modding and reversing" />
+
+**Heavenly-UI**<br />
+Custom UI library for game modding, debugging, and reversing.
+
+**Heavenly ZM**<br />
+GSC mod menu for Zombies with player and gameplay controls.
+
+**HeavenlyPD3**<br />
+Configurable PAYDAY 3 mod collection for solo and offline play.
+
+**DDA Tweaks**<br />
+Dungeon Defenders Awakened modding tools for pak files, DataTable edits, and gameplay tuning.
+
+**Heavenly Engine**<br />
+Private, self-maintained custom [Cheat Engine](https://github.com/cheat-engine/cheat-engine/) build.
+
+<br />
 
 <p align="center">
-  <sub>discord — deprecated</sub>
+  <sub>SINZ6TH / HEAVENLY</sub>
 </p>
